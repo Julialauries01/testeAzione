@@ -1,0 +1,15 @@
+{
+  "name": "agencyParallax",
+  "version": "1.0.0",
+  "description": "Projeto Agency Parallax",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "http-server ./"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
